@@ -18,20 +18,20 @@ Most remarkably, VibeThinker-1.5B surpasses the initial DeepSeek R1 model—whic
 
 ## Key Features
 - **Ultra-Efficient**: VibeThinker-1.5B redefines the efficiency frontier for reasoning models, achieving state-of-the-art performance in mathematical and coding tasks with only 1.5B parameters—100× to 600× smaller than giants like Kimi K2 (1000B+) and DeepSeek R1(671B). 
+
 <p align="center"><img src="./figures/am25_1.5B.png" /></p>
 
-
 - **Innovative Methodology**: We propose an innovative post-training technique centered on the “Spectrum-to-Signal Principle (SSP)”. This framework systematically enhances output diversity by first employing a “Two-Stage Diversity-Exploring Distillation” in the SFT phase to generate a broad spectrum of solutions, followed by the “MaxEnt-Guided Policy Optimization (MGPO)” framework in the RL phase to amplify the correct signal.
+
 <p align="center"><img src="./figures/technicalArchitecture.png" /></p>
 
-
 - **Outstanding Capabilities**: Despite a substantial parameter gap—competing with models 10 to hundreds of times larger—our 1.5B model demonstrates remarkable performance. On the AIME24, AIME25, and HMMT25 benchmarks, it surpasses open-source contenders like DeepSeek R1-0120 and GPT-OSS-20B-Medium, while achieving results comparable to MiniMax-M1.
+
 <p align="center"><img src="./figures/performence.png" width="80%"/></p>
 
-
 - **Cost-Effective**: While state-of-the-art models like DeepSeek R1 and MiniMax-M1 incur post-training costs of $294K and $535K respectively, our approach achieves this for just $7,800. This represents a reduction by a factor of  “30 to 60”, fundamentally changing the economics of developing high-performance reasoning models.
-<p align="center"><img src="./figures/cost.png" width="80%"/></p>
 
+<p align="center"><img src="./figures/cost.png" width="80%"/></p>
 
 ## Model Downloads
 
