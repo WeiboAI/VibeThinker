@@ -1,0 +1,2 @@
+model_path,dataset,pass@1,pass@64,cons@64,cutoff_raio,mean_response_tokens,run_hours
+/njfs/train-aitech/projects/yingwei5/rllm-main/exps_instruct_1.5B/ckpts/exps-instruct-1.5b/LR_instruct_16k_tem1/global_step_290/hf,aime25.parquet,0.74375,0.9,0.85,0.0,18686.2234375,0.48988924509949155
