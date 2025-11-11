@@ -129,5 +129,4 @@ If you use VibeThinker in your research or product, please cite:
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2511.06221}, 
 }
-
 ```
