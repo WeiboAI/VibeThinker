@@ -7,7 +7,7 @@
 
 | Model | Technical Report | Paper |
 | --- | --- | --- |
-| VibeThinker-3B | <a href="https://huggingface.co/papers/2606.16140">arXiv Paper</a>  | <a href="https://arxiv.org/pdf/2606.16140">arXiv Paper</a> |
+| VibeThinker-3B | <a href="https://huggingface.co/papers/2606.16140">Technical Report</a>  | <a href="https://arxiv.org/pdf/2606.16140">arXiv Paper</a> |
 | VibeThinker-1.5B | <a href="https://huggingface.co/papers/2511.06221">Technical Report</a> | <a href="https://arxiv.org/abs/2511.06221">arXiv Paper</a> |
 
 ## News
