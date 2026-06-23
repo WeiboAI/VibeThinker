@@ -83,3 +83,12 @@ Not provided. You can use a standard PyTorch inference Docker image:
 ```bash
 docker pull pytorch/pytorch:2.5.0-cuda12.4-cudnn9-runtime
 ```
+
+## Notebooks
+
+A starter Jupyter notebook is available in [`notebooks/`](../notebooks/):
+
+- [`vibethinker-inference.ipynb`](../notebooks/vibethinker-inference.ipynb) — load model, run inference, custom prompts
+- [`notebooks/README.md`](../notebooks/README.md) — overview and usage guide
+
+Run the notebook after completing the setup steps above.

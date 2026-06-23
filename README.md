@@ -88,6 +88,9 @@ VibeThinkerModel/
 ├── ORIGINAL_README.md      # Original README from WeiboAI (preserved verbatim)
 ├── README_old.md           # Original 1.5B-era README (preserved)
 ├── LICENSE                 # MIT License (original)
+├── notebooks/
+│   ├── README.md            # Notebook overview and usage guide
+│   └── vibethinker-inference.ipynb  # Starter inference notebook
 ├── docs/
 │   ├── PROJECT_OVERVIEW.md  # Detailed project description
 │   ├── SETUP.md             # Environment setup and installation
@@ -132,6 +135,16 @@ tokenizer = AutoTokenizer.from_pretrained("WeiboAI/VibeThinker-3B", trust_remote
 ```
 
 See [INFERENCE.md](docs/INFERENCE.md) for full examples.
+
+## Notebooks
+
+Starter notebooks for experimenting with VibeThinker models locally are available in the [`notebooks/`](notebooks/) directory.
+
+| Notebook | Description |
+|----------|-------------|
+| [`vibethinker-inference.ipynb`](notebooks/vibethinker-inference.ipynb) | Load VibeThinker-3B with transformers and run inference |
+
+See [`notebooks/README.md`](notebooks/README.md) for details and planned notebooks.
 
 ## Hugging Face Model Mirror
 
